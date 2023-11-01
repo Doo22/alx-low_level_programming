@@ -1,1 +1,1 @@
-C-founction
+my c function
